@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sensational11/react-deployment/static/css/main.073c9b0a.css",
-    "main.js": "/sensational11/react-deployment/static/js/main.c898aadb.js",
-    "static/js/787.d6cb1aba.chunk.js": "/sensational11/react-deployment/static/js/787.d6cb1aba.chunk.js",
-    "static/media/logo.svg": "/sensational11/react-deployment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/sensational11/react-deployment/index.html",
-    "main.073c9b0a.css.map": "/sensational11/react-deployment/static/css/main.073c9b0a.css.map",
-    "main.c898aadb.js.map": "/sensational11/react-deployment/static/js/main.c898aadb.js.map",
-    "787.d6cb1aba.chunk.js.map": "/sensational11/react-deployment/static/js/787.d6cb1aba.chunk.js.map"
+    "main.css": "/react-deployment/static/css/main.073c9b0a.css",
+    "main.js": "/react-deployment/static/js/main.ad5c97d7.js",
+    "static/js/787.d6cb1aba.chunk.js": "/react-deployment/static/js/787.d6cb1aba.chunk.js",
+    "static/media/logo.svg": "/react-deployment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-deployment/index.html",
+    "main.073c9b0a.css.map": "/react-deployment/static/css/main.073c9b0a.css.map",
+    "main.ad5c97d7.js.map": "/react-deployment/static/js/main.ad5c97d7.js.map",
+    "787.d6cb1aba.chunk.js.map": "/react-deployment/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c898aadb.js"
+    "static/js/main.ad5c97d7.js"
   ]
 }
